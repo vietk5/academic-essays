@@ -10,16 +10,3 @@
 > > ![GitHub](https://img.shields.io/github/license/vietk5/academic-essays)
 > >
 > > </div>
-
----
-
-## 📖 Giới Thiệu
-
-Repository này tổng hợp toàn bộ **tiểu luận**, **báo cáo môn học** và các **bài tập lớn** trong quá trình học tập tại trường Đại học. Mỗi tài liệu đều được trình bày đúng theo yêu cầu của môn học tương ứng.
-
----
-
-## 📑 Danh Sách Tiểu Luận
-
-| STT | Tên Tiểu Luận / Báo Cáo | Môn Học | File |
-|:---:|:---|:---|:---:|
