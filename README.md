@@ -30,48 +30,12 @@ Repository này tổng hợp toàn bộ **tiểu luận**, **báo cáo môn họ
 
 ## 📑 Danh Sách Tiểu Luận
 
-| STT | Tên Tiểu Luận / Báo Cáo | Môn Học | Học Kỳ | File |
+| STT | Tên Tiểu Luận / Báo Cáo | Môn Học | File |
 |:---:|:---|:---|:---:|:---:|
-| 1 | *(Thêm tên tiểu luận)* | *(Tên môn)* | HK1 - 2024 | [📄 Xem]() |
-| 2 | *(Thêm tên tiểu luận)* | *(Tên môn)* | HK2 - 2024 | [📄 Xem]() |
-| 3 | *(Thêm tên tiểu luận)* | *(Tên môn)* | HK1 - 2025 | [📄 Xem]() |
+| 1 | *(Thêm tên tiểu luận)* | *(Tên môn)* | [📄 Xem]() |
+| 2 | *(Thêm tên tiểu luận)* | *(Tên môn)* | [📄 Xem]() |
+| 3 | *(Thêm tên tiểu luận)* | *(Tên môn)* | [📄 Xem]() |
 
-> 💡 *Bảng sẽ được cập nhật liên tục khi có thêm tài liệu mới*
-
----
-
-## 📁 Cấu Trúc Thư Mục
-
-```
-academic-essays/
-│
-├── 📂 HK1-2023/           # Học kỳ 1 năm 2023
-│   ├── [Tên môn học]/
-│   │   └── tieu-luan.pdf
-│   └── ...
-│
-├── 📂 HK2-2023/           # Học kỳ 2 năm 2023
-│   └── ...
-│
-├── 📂 HK1-2024/           # Học kỳ 1 năm 2024
-│   └── ...
-│
-└── 📂 HK2-2024/           # Học kỳ 2 năm 2024
-    └── ...
-```
-
----
-
-## 📌 Hướng Dẫn Sử Dụng
-
-1. **Clone** repository về máy:
-   ```bash
-   git clone https://github.com/vietk5/academic-essays.git
-   ```
-
-2. Truy cập vào thư mục học kỳ tương ứng để tìm tài liệu
-
-3. Các file thường ở định dạng **PDF** hoặc **DOCX**
 
 ---
 
